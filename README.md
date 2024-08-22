@@ -9,7 +9,7 @@ Esta es una landing page para un negocio gastronómico, diseñada para ser compl
 - **React Router:** 
 
 ## Instrucciones para ejecutar el proyecto
-1. Clona el repositorio: git clone "url-del-repositorio"
+1. Clona el repositorio: git clone ["url-del-repositorio"](https://github.com/paulita842/my-gastronomy-landing-page)
 2. Navega al directorio del proyecto: cd my-gastronomy-landing-page
 3. Instala las dependencias: npm install
 4. Ejecuta la aplicación: npm start
